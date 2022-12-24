@@ -1,1 +1,1 @@
-# calculadora-de-propinas
+# calculadora-de-tipado
